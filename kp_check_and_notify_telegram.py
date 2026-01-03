@@ -111,7 +111,7 @@ def process_search(cfg):
         for i, a in enumerate(added, 1):
             msg += f"{i}. {a['title']}\n{a['desc']}\n{a['price']}\n{a['link']}\n\n"
         send_message(msg.strip())
-        send_message("NOVI OGLASI\n\n")
+        send_message("NOVI OGLASI\n\n\n")
 
     json.dump(new_titles, open(state_file,"w"), ensure_ascii=False, indent=2)
     return len(added)
@@ -131,3 +131,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
