@@ -1,9 +1,9 @@
 name: KP - check ads (Telegram)
 
 on:
-  schedule:
-    - cron: '*/15 * * * *'   # svaka 15 minuta
-  workflow_dispatch:
+  repository_dispatch:
+    types: [kp_check]
+
 
 concurrency:
   group: kp-check
