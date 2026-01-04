@@ -289,7 +289,7 @@ def main():
         ok = send_telegram(message)
         if ok:
             # send separator message exactly as requested
-            send_telegram("NOVI OGLASI\n\n")
+            send_telegram("NOVI OGLASI\n.\n.")
         else:
             log("Warning: telegram send failed for", slug)
 
@@ -297,3 +297,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
