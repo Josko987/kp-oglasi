@@ -1,3 +1,15 @@
+intel-core-i5-14600k-3-50ghz-lga-1700-box-bx8071514600k/oglas/188813381
+amd-ryzen-5-9600x-3-90ghz-am5-oem-100-000001405/oglas/188813389
+amd-ryzen-5-9600x-3-90ghz-am5-box-100-100001405wof/oglas/188813421
+amd-ryzen-5-9600x-3-90ghz-am5-wraith-stealth-fridge-100-1000/oglas/188813534
+amd-ryzen-7-7700x-4-50ghz-am5-box-100-100000591wof/oglas/188813653
+intel-core-i5-14600kf-3-50ghz-lga-1700-oem-cm8071504821014/oglas/188813365
+intel-core-i5-12600kf-3-70ghz-lga-1700-box-bx8071512600kf/oglas/188813402
+amd-ryzen-5-7500f-3-70ghz-am5-oem-100-000000597/oglas/188813432
+amd-ryzen-5-5600gt-3-60ghz-am4-box-100-100001488box/oglas/188813464
+amd-ryzen-5-7600x-4-70ghz-am5-oem-100-000000593/oglas/188813476
+amd-ryzen-5-5600xt-3-80ghz-am4-box-wraith-stealth-cooler-wih/oglas/188813602
+amd-ryzen-5-7600-3-80ghz-am5-wraith-stealth-fridge-100-10000/oglas/188813634
 amd-ryzen-7-5800x-3-80ghz-am4-box-100-100000063wof/oglas/188813190
 intel-core-i5-14600kf-3-50ghz-lga-1700-box-bx8071514600kf/oglas/188813260
 intel-core-i5-12400-2-50ghz-lga-1700-box-intel-cooler-wih-fa/oglas/188813275
