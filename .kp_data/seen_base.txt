@@ -1,3 +1,11 @@
+amd-ryzen-5-7500x3d-oem-100-000001904/oglas/188813830
+intel-core-ultra-7-processor-265kf-3-9-ghz-lga-1851-box-bx80/oglas/188813942
+amd-ryzen-5-5600-3-50ghz-am4-box-wraith-stealth-cooler-wih-f/oglas/188813734
+intel-core-i3-13100-3-40ghz-lga-1700-box-intel-cooler-wih-fa/oglas/188813766
+amd-ryzen-5-5600gt-3-60ghz-am4-oem-100-000001488/oglas/188813818
+amd-ryzen-5-8400f-4-20ghz-am5-oem-100-000001591/oglas/188813857
+intel-core-i5-12600k-3-70ghz-lga-1700-box-bx8071512600k/oglas/188813895
+intel-core-i5-14400f-2-50ghz-lga-1700-oem-cm8071505093011/oglas/188813908
 intel-core-i5-14600k-3-50ghz-lga-1700-box-bx8071514600k/oglas/188813381
 amd-ryzen-5-9600x-3-90ghz-am5-oem-100-000001405/oglas/188813389
 amd-ryzen-5-9600x-3-90ghz-am5-box-100-100001405wof/oglas/188813421
