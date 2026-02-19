@@ -1,10 +1,34 @@
 {
   "_tv_i_video_tv_lcd_plazma_led_pretraga_categoryId_1054_groupId_640_priceFrom_70_priceTo_180_currency_eur_condition_used_": [],
-  "_mobilni_telefoni_samsung_pretraga_keywords_s20_categoryId_23_groupId_75_priceFrom_60_priceTo_85_currency_eur_condition_": [],
-  "_mobilni_telefoni_samsung_pretraga_keywords_s21_categoryId_23_groupId_75_priceFrom_70_priceTo_100_currency_eur_condition": [],
-  "_mobilni_telefoni_samsung_pretraga_keywords_s22_categoryId_23_groupId_75_priceFrom_80_priceTo_140_currency_eur_condition": [],
+  "_mobilni_telefoni_samsung_pretraga_keywords_s20_categoryId_23_groupId_75_priceFrom_60_priceTo_85_currency_eur_condition_": [
+    "https://www.kupujemprodajem.com/mobilni-telefoni/samsung/samsung-s22-ultra-s20-ultra-s20-s10-poco-x3-pro-moto-g06/oglas/189504430?filterId=8487951426",
+    "https://www.kupujemprodajem.com/mobilni-telefoni/samsung/samsung-s20/oglas/189495690?filterId=8487951426",
+    "https://www.kupujemprodajem.com/mobilni-telefoni/samsung/samsung-galaxy-s20-fe-128gb/oglas/189490969?filterId=8487951426",
+    "https://www.kupujemprodajem.com/mobilni-telefoni/samsung/samsung-galaxy-s20-plus/oglas/189486234?filterId=8487951426"
+  ],
+  "_mobilni_telefoni_samsung_pretraga_keywords_s21_categoryId_23_groupId_75_priceFrom_70_priceTo_100_currency_eur_condition": [
+    "https://www.kupujemprodajem.com/mobilni-telefoni/samsung/telefon/oglas/189505381?filterId=8487952206",
+    "https://www.kupujemprodajem.com/mobilni-telefoni/samsung/samsung-s21-fe-6gb-128gb-olive-opis/oglas/189488607?filterId=8487952206",
+    "https://www.kupujemprodajem.com/mobilni-telefoni/samsung/s21-ultra-12-128/oglas/189486893?filterId=8487952206",
+    "https://www.kupujemprodajem.com/mobilni-telefoni/samsung/samsung-s21/oglas/189484097?filterId=8487952206"
+  ],
+  "_mobilni_telefoni_samsung_pretraga_keywords_s22_categoryId_23_groupId_75_priceFrom_80_priceTo_140_currency_eur_condition": [
+    "https://www.kupujemprodajem.com/mobilni-telefoni/samsung/samsung-s21-fe/oglas/189503635?filterId=8487954462",
+    "https://www.kupujemprodajem.com/mobilni-telefoni/samsung/s22-ultra/oglas/189478581?filterId=8487954462"
+  ],
   "_kompjuteri_laptop_i_tablet_tableti_pretraga_keywords_a9_2B_categoryId_1221_groupId_766_priceFrom_70_priceTo_130_currenc": [],
-  "_kompjuteri_laptop_i_tablet_laptopovi_pretraga_keywords_HP_20RYZEN_categoryId_1221_groupId_101_priceFrom_100_priceTo_350": [],
-  "_tv_i_video_tv_lcd_plazma_led_pretraga_categoryId_1054_groupId_640_priceFrom_180_priceTo_260_currency_eur_condition_used": [],
-  "_pretraga_priceTo_400_order_posted_20desc_categoryId_1221_currency_eur_keywordsScope_description_priceFrom_300_keywords_": []
+  "_kompjuteri_laptop_i_tablet_laptopovi_pretraga_keywords_HP_20RYZEN_categoryId_1221_groupId_101_priceFrom_100_priceTo_350": [
+    "https://www.kupujemprodajem.com/kompjuteri-laptop-i-tablet/laptopovi/hp-pavilion-15-amd-ryzen-5/oglas/189510869?filterId=8487962805",
+    "https://www.kupujemprodajem.com/kompjuteri-laptop-i-tablet/laptopovi/hp-255-g10-ryzen-3-7330u-16gb-vega-8-256gb-m-2-nvme/oglas/189508651?filterId=8487962805",
+    "https://www.kupujemprodajem.com/kompjuteri-laptop-i-tablet/laptopovi/hp-probook-455-g7-ryzen-5-4500u-8gb-120-radeon-4h/oglas/189508637?filterId=8487962805",
+    "https://www.kupujemprodajem.com/kompjuteri-laptop-i-tablet/laptopovi/hp-probook-g6-ryzen-5-3500u/oglas/189508597?filterId=8487962805",
+    "https://www.kupujemprodajem.com/kompjuteri-laptop-i-tablet/laptopovi/hp-elitebook-845-g7-ryzen-5-pro-4650u-16gb-nvme-256gb/oglas/189491831?filterId=8487962805",
+    "https://www.kupujemprodajem.com/kompjuteri-laptop-i-tablet/laptopovi/hp-elitebook-735-g6-ryzen-5-3500u-16gb-ddr4-512gb-ssd-13-3/oglas/189479953?filterId=8487962805"
+  ],
+  "_tv_i_video_tv_lcd_plazma_led_pretraga_categoryId_1054_groupId_640_priceFrom_180_priceTo_260_currency_eur_condition_used": [
+    "https://www.kupujemprodajem.com/tv-i-video/tv-lcd-plazma-led/lg-55uj6517-55-4k-uhd-smart-tv-hdr-webos-dvb-t2-wifi/oglas/189510192?filterId=8401135825"
+  ],
+  "_pretraga_priceTo_400_order_posted_20desc_categoryId_1221_currency_eur_keywordsScope_description_priceFrom_300_keywords_": [
+    "https://www.kupujemprodajem.com/kompjuteri-laptop-i-tablet/laptopovi-apple-oprema-i-delovi/maticna-ploca-macbook-pro-16-m1-pro-a2485-16-512/oglas/189479812?filterId=8401152346"
+  ]
 }
