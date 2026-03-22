@@ -1,3 +1,4 @@
+kenwood-komponente/oglas/190491425
 resiver-sony/oglas/190490847
 resiver-thomson/oglas/190490515
 resiver-onkyo/oglas/190490107
